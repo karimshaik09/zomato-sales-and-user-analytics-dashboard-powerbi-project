@@ -173,10 +173,8 @@ This dashboard includes:
 - Age-Based User Distribution  
 
 To include screenshots, use:
+![Dashboard Screenshot](https://github.com/karimshaik09/zomato-sales-and-user-analytics-dashboard-powerbi-project/blob/f3d182ceed7699e08fa66e21189e11a0bc6f4169/Image/Screenshot%202025-10-18%20215827.png)
 
-```
-![Dashboard Screenshot](https://github.com/karimshaik09/zomato-sales-and-user-analytics-dashboard-powerbi-project/blob/master/Screenshot%202025-12-03%20191957.png?raw=true)
-```
 
 ---
 
