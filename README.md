@@ -175,6 +175,7 @@ This dashboard includes:
 To include screenshots, use:
 ![Dashboard Screenshot 1](https://github.com/karimshaik09/zomato-sales-and-user-analytics-dashboard-powerbi-project/blob/f3d182ceed7699e08fa66e21189e11a0bc6f4169/Image/Screenshot%202025-10-18%20215827.png)
 ![Dashboard Screenshot 2](https://github.com/karimshaik09/zomato-sales-and-user-analytics-dashboard-powerbi-project/blob/ed4018ef7567fd18c321b3adba564b0a05304b85/Image/Screenshot%202025-10-18%20215848.png)
+![Dashboard Screenshot 3](https://github.com/karimshaik09/zomato-sales-and-user-analytics-dashboard-powerbi-project/blob/15cdc72be7f426216512d0c33d3007aec225d45a/Image/Screenshot%202025-10-18%20215916.png)
 
 ---
 
